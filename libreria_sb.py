@@ -10,8 +10,8 @@ librerias
 """
 
 # @title
-!pip install pdfminer-six
-!pip install pymupdf
+#!pip install pdfminer-six
+#!pip install pymupdf
 
 import re
 import fitz  # PyMuPDF
